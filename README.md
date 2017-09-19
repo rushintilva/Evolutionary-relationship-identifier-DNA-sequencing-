@@ -10,3 +10,8 @@ y (∑) a = 1 is summation a=1 to y
 
 n = 1 + y (∑) (a = 1) [(x + 1)*(x + 2)*(x + 3)...(x + a)]
 
+You can download the script.py file and run it in python IDE (2.7.11)
+
+
+Note :- Code is not tested properly yet. Testing will complete before 1st January 2018 and will be commited.
+
